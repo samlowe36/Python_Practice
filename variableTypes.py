@@ -1,0 +1,11 @@
+birth_year = input('Birth year: ')
+print(type(birth_year))
+age = 2022 - int(birth_year)
+print(type(age))
+print(age)
+
+weight = input('How much do you weigh? (lbs) ')
+print(type(weight))
+pounds = float(weight)
+print(type(pounds))
+print(pounds)
